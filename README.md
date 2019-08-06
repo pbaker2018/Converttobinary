@@ -3,6 +3,7 @@
 A basic one-page Android app, using Kotlin.
 
 The user types in a whole number (an integer) and then clicks on the button: 'convert to binary'. 
+
 The app will then work out the conversion and display the result.
 
 The user can clear the result, if they wish, and start again.
